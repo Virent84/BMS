@@ -1,0 +1,10 @@
+Item,Model/Specification,Quantity,Verified in actual build?,Notes
+ESP32 development board,DevKit V1 (verify exact variant),,No - confirm,
+ADC module,ADS1115,,No - confirm,
+Current sensor,ACS712 (verify current range),,No - confirm,
+Temperature sensor,DS18B20,,No - confirm,
+Display,I2C LCD (verify size/address),,No - confirm,
+Relay module,Verify coil voltage and contact rating,,No - confirm,
+Buck converter,LM2596 module,,No - confirm,
+Buzzer / LEDs / resistors,As assembled,,No - confirm,
+Power source and load,Specify chemistry/voltage/current rating,,No - confirm,
